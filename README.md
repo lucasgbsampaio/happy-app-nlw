@@ -1,11 +1,8 @@
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek"  />
+    NextLevelWeek 
 </h1>
 
-<h4 align="center"> 
-	:construction: NextLevelWeek 3.0 🚀 In progress...:construction:
-</h4>
 <p align="center">	
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasfe4nor/happy-app-nlw">
 
@@ -32,9 +29,9 @@ An online and completely free event that will help you take the next step in you
 ### Days
 - Dia 1: Acelerando sua evolução 12/10 - :heavy_check_mark:
 - Dia 2: Olhando as oportunidades 13/10 - :heavy_check_mark:
-- Dia 3: A escolha da Stack 14/10 - :construction:
-- Dia 4: Até 2 anos em 2 meses 15/10 - :construction:
-- Dia 5: Milha extra 16/10 - :construction:
+- Dia 3: A escolha da Stack 14/10 - :heavy_check_mark:
+- Dia 4: Até 2 anos em 2 meses 15/10 - :heavy_check_mark:
+- Dia 5: Milha extra 16/10 - :heavy_check_mark:
 
 ## 💻 Project
 
